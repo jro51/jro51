@@ -2,9 +2,9 @@
 <h2> Hola a todos, Bienvenidos a mi perfil de Github!</h2>
 
 <p> 
-Soy Julio, un estudiante de Ingeniería Informática con enofque a ser un desarrollador fullstack. 
+Soy Julio, un estudiante de Ingeniería Informática con enfoque a ser un desarrollador fullstack. 
 Me gusta investigar y probar nuevas tecnologías.
-Tengo buena base en Estructuras de Datos, Algoritmos y POO 
+Tengo buena base en Estructuras de Datos, Algoritmos y POO.
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades técnicas </b>
